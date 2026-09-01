@@ -22,3 +22,13 @@ Google Cloud would be an appropriate choice for the AI research company because 
 
 AWS would be a strong choice for the global e-commerce company because it needs highly available infrastructure and automatic scaling for customers around the world. AWS provides services that can distribute workloads, handle changing traffic, and support applications across multiple geographic locations. This is important for an e-commerce company because traffic may increase significantly during promotions, holidays, or other busy periods. The company could use **Amazon EC2** for computing, **Elastic Load Balancing** to distribute incoming traffic, and **EC2 Auto Scaling** to automatically adjust capacity. **Amazon S3** and **Amazon RDS** could also support storage and database requirements.
 
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | **AWS** | Broad services, scalability, and flexibility for growing applications |
+| Enterprise Organization | **AWS** | Large service portfolio and extensive enterprise capabilities |
+| Microsoft Environment | **Azure** | Strong integration with Microsoft's technologies |
+| AI / Machine Learning | **Google Cloud** | Strong AI, ML, and data capabilities |
+| Kubernetes Deployment | **Google Cloud** | Strong Kubernetes ecosystem and GKE |
+| Global Web Application | **AWS** | Global infrastructure and scalable application services |
